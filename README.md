@@ -78,6 +78,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## Contact
 
-Chirag Sharma - [your-chiragsharmafzd@gmail.com](mailto:your-chiragsharmafzd@gmail.com)
+Chirag Sharma - [chiragsharmafzd@gmail.com](mailto:chiragsharmafzd@gmail.com)
 
 Project Link: [https://github.com/chiragsharma15/Resume](https://github.com/chiragsharma15/Resume)
